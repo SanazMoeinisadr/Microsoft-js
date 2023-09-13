@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig ({
-       base: '/Microsoft/',
+       base: '/microsoft-js/',
 
        build:{
               target : 'esnext'
