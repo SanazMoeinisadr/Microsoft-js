@@ -1,4 +1,4 @@
-import 'style.css'
+import './style.css'
 import 'bootstrap'
 /* import 'bootstrap/dist/js/bootstrap.bundle.min' */
 
